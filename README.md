@@ -14,7 +14,10 @@ Upload exam
 	
 	Off-topic => 03:14 - 03:30
 	
-https://www.youtube.com/watch?v=BCg4U1FzODs
+https://www.youtube.com/watch?v=BCg4U1FzODs => 00:52
+01.Angular-TypeScript-Playground
+
+02.Angular-Components-And-Data-Binding => 04:04
 
 
 
