@@ -15,9 +15,21 @@ Upload exam
 	Off-topic => 03:14 - 03:30
 	
 https://www.youtube.com/watch?v=BCg4U1FzODs => 00:52
+
 01.Angular-TypeScript-Playground
 
-02.Angular-Components-And-Data-Binding => 04:04
+02.Angular-Components-And-Data-Binding => 01:48 / 04:04
+	Overview
+	Init Angular project
+	1. Components Basic Idea => 00:20 - 01:48
+	2. Creating Components => 01:48 - 02:11
+	3. Bootstrapping => 02:11 - 02:20
+	4. Data Bindings & Templates => 02:20 - 03:12
+	5. Lifecycle Hooks => 03:12 - 03:24
+	6. Signals => step over
+	7. Component Interaction => 03:24 - 04:04
+
+02.Angular-Components-Lab
 
 
 

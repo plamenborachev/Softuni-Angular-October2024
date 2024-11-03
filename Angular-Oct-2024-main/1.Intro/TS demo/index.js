@@ -91,4 +91,3 @@ function getIdentity(id) {
 }
 getIdentity(123);
 getIdentity("akjsdhkasjhdkjsa");
-getIdentity(["a", "b", "c"]);
