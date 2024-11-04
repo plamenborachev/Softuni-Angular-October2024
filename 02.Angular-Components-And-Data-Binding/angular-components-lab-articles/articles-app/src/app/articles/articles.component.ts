@@ -14,11 +14,9 @@ export class ArticlesComponent implements OnInit{
   articles: Article[] = [];
 
   constructor(){
-
   }
 
   ngOnInit(): void {
     this.articles = new ArticleData().getData();
   }
-
 }

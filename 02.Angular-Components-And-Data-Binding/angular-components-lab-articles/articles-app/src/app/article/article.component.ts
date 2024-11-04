@@ -10,8 +10,13 @@ import { Article } from '../data/seed';
 })
 export class ArticleComponent {
   private symbols: number = 250;
-  @Input() article: Article;
-  @Input() articleDesc: string;
+  @Input() article: Article = {
+    title: '',
+    description: '',
+    author: '',
+    imageUrl: ''
+  };
+  @Input() articleDesc: string = '';
   descToShow: string;
   articleDescLen: number;
   showReadMoreBtn: boolean = true;
@@ -19,15 +24,13 @@ export class ArticleComponent {
   imageIsShown: boolean = false;
   imageButtonTitle: string = 'Show image';
 
-  constructor(article: Article, articleDesc: string){
-    this.article = article;
-    this.articleDesc = articleDesc;
+  constructor(){
     this.articleDescLen = 0;
     this.descToShow = '';
   }
 
   readMore(): void{
-    this.articleDescLen = this.symbols;
+    this.articleDescLen += this.symbols;
     if (this.articleDescLen >= this.articleDesc.length){
       this.showHideBtn = true;
       this.showReadMoreBtn = false;
