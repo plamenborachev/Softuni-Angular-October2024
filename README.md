@@ -31,6 +31,16 @@ https://www.youtube.com/watch?v=BCg4U1FzODs => 00:52
 
 02.Angular-Components-Lab
 
+03.DI-RxJS-Observables-Services => 03:44
+	Overview
+	1. Change Detection Strategy => 00:12 - 01:26
+	2. SOLID Principles => 01:26 - 02:05
+	3. Services => 02:05 - ...
+	4. Observables and RxJS
+	5. HTTP Client
+	
+	Off-topic =>
+
 
 
 
