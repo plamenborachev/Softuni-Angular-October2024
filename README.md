@@ -43,7 +43,19 @@ https://www.youtube.com/watch?v=BCg4U1FzODs => 00:52
 	Firebase => ... - 02:30
 	Mongo DB => 02:30 - 03:36
 
-05.Modules-and-Routing => 
+05.Modules-and-Routing => 03:50
+	Modules => 00:10 - 00:44
+	1. Standalone Components => 00:44 - 01:02
+	2. Signals => 01:02 - 02:00
+	3. Routing Overview => 02:00 - 02:06
+	4. Router Module => 02:06 - 03:20
+		Overview => 02:43 - 02:45
+	5. Router Guards => 03:20 - 03:38
+	
+	Off-topic => 03:38 - 03:50
+	
+06.Angular-Workshop-Part-2-Modules-And-Routing => 03:34
+	
 	
 	
 
