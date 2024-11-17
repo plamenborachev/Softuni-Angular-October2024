@@ -54,7 +54,10 @@ https://www.youtube.com/watch?v=BCg4U1FzODs => 00:52
 	
 	Off-topic => 03:38 - 03:50
 	
-06.Angular-Workshop-Part-2-Modules-And-Routing => 03:34
+06.Angular-Workshop-Part-2-Modules-And-Routing => 01:43 / 03:34
+	Overview => 00:00 - 00:37
+	
+	Off-topic => 03:15 - 03:34
 	
 	
 	
