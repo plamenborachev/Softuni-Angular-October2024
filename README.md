@@ -59,6 +59,38 @@ https://www.youtube.com/watch?v=BCg4U1FzODs => 00:52
 	
 	Off-topic => 03:15 - 03:34
 	
+07.Forms => 03:02 / 03:41
+	1. Directives => 00:10 - 01:58
+		▪ Attribute Directives =>
+		▪ Structural Directives =>
+		▪ Building an Attribute Directive
+	2. Handling Forms => 01:58 - ...
+		Bootstrap install => 02:04 - ...
+		▪ Template-Driven Forms => ... - 03:12
+			Overview => 03:02 - 03:10
+		▪ Reactive Forms => 03:12 - 03:34
+			Overview => 03:29 - 03:30
+		
+	Off-topic => 03:34 - 03:41
+	
+08.Angular-Workshop-Part-3 => 03:38
+	
+	
+	
+	
+=========================================================================
+Create new project
+	ng new some-app
+	cd some-app
+	
+▪ Start a dev server on port 4200
+	ng serve
+	
+▪ Create a new standalone component
+	ng g c component-name --skip-tests
+	
+npm install --force
+	
 	
 	
 
