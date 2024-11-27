@@ -73,7 +73,20 @@ https://www.youtube.com/watch?v=BCg4U1FzODs => 00:52
 		
 	Off-topic => 03:34 - 03:41
 	
-08.Angular-Workshop-Part-3 => 03:38
+08.Angular-Workshop-Part-3 => 02:43 / 03:38
+	Template-Driven Forms => ... - 01:11
+	Reactive Forms =>  01:11 - ...
+	
+	Off-topic => 03:15 - 03:38
+	
+09.Pipes-Interceptors-and-Interceptors => 
+	1. Pipes
+	2. JWT Authentication
+	3. Interceptors
+	4. Lazy Loading
+	5. Subjects
+	
+	Off-topic => 
 	
 	
 	
