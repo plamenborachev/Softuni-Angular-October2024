@@ -79,14 +79,23 @@ https://www.youtube.com/watch?v=BCg4U1FzODs => 00:52
 	
 	Off-topic => 03:15 - 03:38
 	
-09.Pipes-Interceptors-and-Interceptors => 
-	1. Pipes
-	2. JWT Authentication
-	3. Interceptors
-	4. Lazy Loading
-	5. Subjects
+09.Pipes-Interceptors-and-Interceptors => 03:11
+	1. Pipes => 00:07 - 00:37
+	2. JWT Authentication => 00:37 - 00:49
+	3. Interceptors => 00:49 - 01:35
+	4. Lazy Loading => 01:35 - 01:56
+	5. Subjects => 01:56 - 02:41
 	
 	Off-topic => 
+	
+10.Angular-Workshop-Part-4 => 01:09 / 03:00
+	Lazy loading => 02:07 - 02:09
+	Pipes => 02:15 - 02:33
+	update => 02:33 - ...
+	
+	Off-topic => 
+	
+	
 	
 	
 	
