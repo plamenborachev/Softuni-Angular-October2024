@@ -27,10 +27,7 @@ export class ProfileComponent implements OnInit {
   };
 
   form = new FormGroup({
-    username: new FormControl('', [
-      Validators.required,
-      Validators.minLength(5),
-    ]),
+    username: new FormControl('', [Validators.required, Validators.minLength(5),]),
     email: new FormControl('', [Validators.required, emailValidator(DOMAINS)]),
     tel: new FormControl(''),
   });
@@ -58,7 +55,6 @@ export class ProfileComponent implements OnInit {
     }
 
     this.profileDetails = this.form.value as ProfileDetails;
-
     const { username, email, tel } = this.profileDetails;
 
     this.userService.updateProfile(username, email, tel).subscribe(() => {

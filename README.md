@@ -76,6 +76,7 @@ https://www.youtube.com/watch?v=BCg4U1FzODs => 00:52
 08.Angular-Workshop-Part-3 => 02:43 / 03:38
 	Template-Driven Forms => ... - 01:11
 	Reactive Forms =>  01:11 - ...
+	edit profile => 02:46 - ...
 	
 	Off-topic => 03:15 - 03:38
 	
@@ -89,15 +90,19 @@ https://www.youtube.com/watch?v=BCg4U1FzODs => 00:52
 	Off-topic => 
 	
 10.Angular-Workshop-Part-4 => 01:09 / 03:00
+	Login / Register
+	Error message => 01:40 - 01:58
 	Lazy loading => 02:07 - 02:09
 	Pipes => 02:15 - 02:33
-	update => 02:33 - ...
+	edit profile => 02:33 - ...
 	
 	Off-topic => 
 	
+11.State-Management => 02:48
 	
+	Off-topic => 02:20 - 02:48
 	
-	
+12.Q&A Session => 01:21	
 	
 	
 =========================================================================
