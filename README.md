@@ -25,18 +25,20 @@ https://www.youtube.com/watch?v=BCg4U1FzODs => 00:52
 	2. Creating Components => 01:48 - 02:11
 	3. Bootstrapping => 02:11 - 02:20
 	4. Data Bindings & Templates => 02:20 - 03:12
-	5. Lifecycle Hooks => 03:12 - 03:24
+=> 5. Lifecycle Hooks => 03:12 - 03:24
 	6. Signals => step over
 	7. Component Interaction => 03:24 - 04:04
 
-02.Angular-Components-Lab
+02.Angular-Components-Lab???
 
 03.DI-RxJS-Observables-Services => 03:44
 	Overview
 	1. Change Detection Strategy => 00:12 - 01:26
 	2. SOLID Principles => 01:26 - 02:07
 	3. Services => 02:07 - 02:41
-	4. Observables and RxJS => 02:41 - 03:22 
+=> 	4. Observables and RxJS => 02:41 - 03:22
+		Observables 
+		Pipes => 03:03 - ...
 	5. HTTP Client => 03:22 - 03:44	
 	
 04.Workshop-Part-1 => 02:23 / 03:36
@@ -46,11 +48,12 @@ https://www.youtube.com/watch?v=BCg4U1FzODs => 00:52
 05.Modules-and-Routing => 03:50
 	Modules => 00:10 - 00:44
 	1. Standalone Components => 00:44 - 01:02
-	2. Signals => 01:02 - 02:00
+=>	2. Signals => 01:02 - 02:00
+		Zone JS vs. Signals => 01:30 - 02:00
 	3. Routing Overview => 02:00 - 02:06
 	4. Router Module => 02:06 - 03:20
 		Overview => 02:43 - 02:45
-	5. Router Guards => 03:20 - 03:38
+=> 5. Router Guards => 03:20 - 03:38
 	
 	Off-topic => 03:38 - 03:50
 	
@@ -60,16 +63,16 @@ https://www.youtube.com/watch?v=BCg4U1FzODs => 00:52
 	Off-topic => 03:15 - 03:34
 	
 07.Forms => 03:02 / 03:41
-	1. Directives => 00:10 - 01:58
+=>	1. Directives => 00:10 - 01:58
 		▪ Attribute Directives =>
 		▪ Structural Directives =>
-		▪ Building an Attribute Directive
+		▪ Building an Attribute Directive => 
 	2. Handling Forms => 01:58 - ...
 		Bootstrap install => 02:04 - ...
 		▪ Template-Driven Forms => ... - 03:12
-			Overview => 03:02 - 03:10
+=>			Overview => 03:02 - 03:10
 		▪ Reactive Forms => 03:12 - 03:34
-			Overview => 03:29 - 03:30
+=>			Overview => 03:29 - 03:30
 		
 	Off-topic => 03:34 - 03:41
 	
@@ -83,9 +86,12 @@ https://www.youtube.com/watch?v=BCg4U1FzODs => 00:52
 09.Pipes-Interceptors-and-Interceptors => 03:11
 	1. Pipes => 00:07 - 00:37
 	2. JWT Authentication => 00:37 - 00:49
-	3. Interceptors => 00:49 - 01:35
+=>	3. Interceptors => 00:49 - 01:35
 	4. Lazy Loading => 01:35 - 01:56
-	5. Subjects => 01:56 - 02:41
+=>	5. Subjects => 01:56 - 02:41
+		BehaviorSubject => 02:22 - 02:27 (keeps last set value)
+		Replay Subject => 02:27 - 02:33
+		Async Subject => 02:38 - 02:41
 	
 	Off-topic => 
 	
@@ -94,7 +100,7 @@ https://www.youtube.com/watch?v=BCg4U1FzODs => 00:52
 	Error message => 01:40 - 01:58
 	Lazy loading => 02:07 - 02:09
 	Pipes => 02:15 - 02:33
-	edit profile => 02:33 - ...
+	edit profile => 02:33
 	
 	Off-topic => 
 	
